@@ -1,2 +1,2 @@
-# ghdl_crc_demo
-GHDL + GTKWave demo with CRC implementations
+# GHDL + GTKWave demo with CRC implementations
+CRC7 and CRC16 implemented
